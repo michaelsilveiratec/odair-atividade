@@ -1,0 +1,12 @@
+## RODAR O CONTAINER
+# docker build -t exemplo2_app .
+
+# docker run -d -p 8000:8000 exemplo2_app
+
+## TESTAR A APLICAÇÃO
+# curl http://localhost:8001 #se necessário, ajuste a porta
+
+#não esquecer de usar docs no navegador
+# http://localhost:8001/docs
+
+#Ass: Pastor

@@ -1,0 +1,10 @@
+## cd ..\.. -- PARA VOLTAR PARA PASTA PAI
+## cd exemplo_3
+
+## senha: 123
+## porta:5432
+## locale: default
+
+-------------------------------
+## Instalar extensão SQLTools
+## Passo 1 — Ter o PostgreSQL instalados
